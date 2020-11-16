@@ -4,6 +4,14 @@ This submission contains a set of models created with Simulink and Powertrain Bl
 More specifically, the files contaned include: vehicle dynamics model (glider), battery 
 electric vehicle (BEV) model, and a conventional vehicle model.
 
+
+
+sources:
+
+1. https://www.mathworks.com/videos/matlab-and-simulink-racing-lounge-vehicle-modeling-part-1-simulink-1502466996305.html
+
+2. https://www.mathworks.com/matlabcentral/fileexchange/63823-matlab-and-simulink-racing-lounge-vehicle-modeling
+
 -----------------------------------------------------------------------------------------------
 
 ABOUT THE MODELS:
